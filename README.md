@@ -1,7 +1,7 @@
 # Superstore Sales Analysis Dashboard (Power BI)
 
 ## 📊 Project Overview
-This project analyzes sales performance across customers, products, and regions using Power BI. The goal is to identify key trends, top-performing segments, and areas for improvement.
+This project presents an interactive Power BI dashboard analyzing sales performance across customers, products, and regions. It highlights key business insights, trends, and opportunities to support data-driven decision-making.
 
 ## 📁 Dataset
 The dataset includes order-level data covering customers, products, sales, and geographic regions.
@@ -20,13 +20,18 @@ The dataset includes order-level data covering customers, products, sales, and g
 - The West region leads, with strong performance driven by California
 
 ## 🛠 Tools Used
-- Power BI
-- DAX
-- Power Query
+- Power BI (Data Visualization)
+- DAX (Data Analysis Expressions)
+- Power Query (Data Transformation)
 
 ## 📄 Project Files
 - Power BI file (.pbix)
 - Dashboard export (.pdf)
+
+## ▶️ How to Use
+- Use slicers to filter by Year and Quarter  
+- Navigate between pages using the top menu  
+- Right-click on a customer to access detailed drill-through insights 
 
 ## 📊 Dashboard Preview
 
